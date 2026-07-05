@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi 👋, I'm Gaurav Subedi
+From Nepal and Studying Masters in Computer Science @Laurentian University 
 <!--
 **Gaurav-Subedi06/Gaurav-Subedi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
